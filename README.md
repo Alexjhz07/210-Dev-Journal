@@ -22,11 +22,11 @@ The target audience will be developers:
 - As a user, I want to be able to **edit** a mob in a category
 - As a user, I want to be able to **select** a mob in a category and view it
 
-##Phase 2 user stories:
+## Phase 2 user stories:
 - As a user, I want to be able to **save** all my categories and mobs to a file
 - As a user, I want to be able to **load** all my categories and mobs from a file
 
-##Phase 4: Task 2
+## Phase 4: Task 2
 
 Tue Mar 29 15:01:17 PDT 2022\
 Diary Loaded\
@@ -63,7 +63,7 @@ Added drop Dragon Skin to mob Dragon\
 Tue Mar 29 15:02:30 PDT 2022\
 Changed mob name Dragon to Wyvern
 
-##Phase 4: Task 3
+## Phase 4: Task 3
 
 One of the things that stood out to me when looking back at my UML diagram<br>
 is the triple reference from my DiaryApplication class in my ui package to the<br>
